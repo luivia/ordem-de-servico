@@ -1,0 +1,88 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #5F9EA0;
+}
+
+.home {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.home h1 {
+    color: #5F9EA0;
+    font-size: 60px;
+    font-weight: 500;
+}
+
+.home p {
+    font-size: 20px;
+}
+
+.container {
+    text-align: center;
+}
+
+label {
+    display: flex;
+    margin-bottom: 0px;
+    color: #5F9EA0;
+    font-family: serif;
+}
+
+img {
+    /* vertical-align: middle; */
+    border-style: none;
+    width: 70%;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(2.25rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: black;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #5F9EA0;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+h3 {
+    color: rgb(95, 95, 95);
+    text-align: left;
+    margin-top: 40px;
+}
+
+.btn {
+    background: #5F9EA0;
+    align-content: center;
+}
+
+a {
+    color: #5F9EA0;
+}
+
+button {
+    background: white;
+    color: green;
+}
+
+table,
+form {
+    width: 100% !important;
+    margin-top: 40px !important;
+    text-align: center;
+    align-items: center !important;
+}
+
+thead,
+th {
+    background-color: #5F9EA0 !important;
+}
